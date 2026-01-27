@@ -18,7 +18,8 @@ This project focuses on analyzing global economic trends with a primary emphasis
 -Data collection from economic and financial datasets -Data cleaning and preprocessing -Data transformation and modeling -Creation of calculated measures and KPIs -Dashboard design and visualization -Insight generation and analysis
 
 ## Dashboard
-gdp
+<img width="2366" height="1341" alt="Credit Card Customer Analysis Dashboard" src="https://github.com/MehanazBegam/Gross-Domestic-Product-GDP-/blob/main/GDP%20Dashboard.png"/>
+
 ## Project Insights
 -India shows consistent GDP growth over the years -The services sector contributes the highest share to GDP -Inflation has a noticeable impact on GDP growth -India’s GDP is steadily increasing compared to previous years -Economic growth varies significantly across countries
 
