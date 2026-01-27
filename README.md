@@ -12,7 +12,7 @@ This project focuses on analyzing global economic trends with a primary emphasis
 -What is the year-on-year GDP growth for each country? -How does India’s GDP growth compare with China and the United States? -Which country has the highest GDP growth rate? -How has GDP per capita changed over the years in India? -What is the impact of inflation on GDP growth? -Which sector contributes the most to GDP?
 
 ## Dashboard Interaction
-View Dashboard
+[View Dashboard](https://github.com/MehanazBegam/Gross-Domestic-Product-GDP-/blob/main/GDP%20Dashboard.png)
 
 ## Process
 -Data collection from economic and financial datasets -Data cleaning and preprocessing -Data transformation and modeling -Creation of calculated measures and KPIs -Dashboard design and visualization -Insight generation and analysis
