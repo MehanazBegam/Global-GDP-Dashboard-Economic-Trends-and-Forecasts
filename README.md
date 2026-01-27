@@ -4,6 +4,7 @@ This project focuses on analyzing global economic trends with a primary emphasis
 
 # Dataset used
 https://github.com/MehanazBegam/Gross-Domestic-Product-GDP-/blob/main/INDIA_GDP_DATA.csv
+https://github.com/MehanazBegam/Gross-Domestic-Product-GDP-/blob/main/Inflation%20%20GDP%20(1).xlsx
 
 
 # Questions (KPIs)
