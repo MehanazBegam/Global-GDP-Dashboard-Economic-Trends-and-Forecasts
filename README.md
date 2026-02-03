@@ -29,3 +29,8 @@ Designed and created a complete Power BI dashboard to analyze and visualize GDP 
 
 ## Final Conclusion
 This dashboard provides a comprehensive overview of global and Indian economic performance. By integrating GDP, inflation, and growth metrics into a single interactive platform, the project enables better understanding of economic trends and supports data-driven decision-making.
+## Tools Used
+Power BI 
+DAX 
+Excel / CSV
+GitHub
