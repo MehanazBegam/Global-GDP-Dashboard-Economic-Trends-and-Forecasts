@@ -1,14 +1,11 @@
 # Global GDP Dashboard Economic Trends and Forecasts
-Designed and created a complete Power BI dashboard to analyze and visualize GDP data. Studied global economic trends, compared countries (like India and the US), analyzed GDP per capita, sector contributions, and the relationship between GDP and inflation.Used forecasting methods and business intelligence tools to turn complex data into simple and useful insights.
-  
 ## Project Objectives
-This project focuses on analyzing global economic trends with a primary emphasis on India. An interactive dashboard is created to visualize GDP, GDP growth rate, GDP per capita, inflation, and sector-wise contributions over multiple years. The dashboard enables easy comparison between countries and helps derive meaningful economic insights.
+Designed and created a complete Power BI dashboard to analyze and visualize GDP data. Studied global economic trends, compared countries (like India and the US), analyzed GDP per capita, sector contributions, and the relationship between GDP and inflation.Used forecasting methods and business intelligence tools to turn complex data into simple and useful insights.
 
 ## Dataset used
 -<a href="https://github.com/MehanazBegam/Gross-Domestic-Product-GDP-/blob/main/INDIA_GDP_DATA.csv">Dataset 1</a></n>
 -<a href="https://github.com/MehanazBegam/Gross-Domestic-Product-GDP-/blob/main/Inflation%20%20GDP%20(1).xlsx">Dataset 2</a></n>
 -<a href="https://github.com/MehanazBegam/Gross-Domestic-Product-GDP-/blob/main/WEO_Data1.xlsx">Dataset 3</a></n>
-
 
 ## Questions (KPIs)
 -What is the year-on-year GDP growth for each country? 
