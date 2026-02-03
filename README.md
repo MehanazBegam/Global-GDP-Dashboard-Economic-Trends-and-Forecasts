@@ -1,4 +1,5 @@
 # Global GDP Dashboard Economic Trends and Forecasts
+-This project builds a Power BI dashboard to study GDP data. It shows global trends, compares countries, and looks at GDP per capita, sector contributions, and inflation. The goal is to turn complex economic numbers into clear insights for business and research.
 ## Project Objectives
 Designed and created a complete Power BI dashboard to analyze and visualize GDP data. Studied global economic trends, compared countries (like India and the US), analyzed GDP per capita, sector contributions, and the relationship between GDP and inflation.Used forecasting methods and business intelligence tools to turn complex data into simple and useful insights.
 
